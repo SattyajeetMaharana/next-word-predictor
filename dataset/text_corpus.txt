@@ -1,0 +1,71 @@
+I am going to school today to learn new things.
+I am going to the market to buy some vegetables.
+I am going to the library to read some books.
+I love to play football with my friends in the evening.
+I love to read books about science and technology.
+I love to watch movies on the weekend with my family.
+The weather is very nice today and we should go outside.
+The weather is getting cold and we need warm clothes.
+The weather forecast says it will rain tomorrow morning.
+Machine learning is a branch of artificial intelligence that enables computers to learn.
+Machine learning algorithms can analyze large datasets and find patterns.
+Deep learning uses neural networks to process complex data efficiently.
+Natural language processing helps computers understand human language better.
+Natural language processing is used in chatbots and virtual assistants.
+Python is a popular programming language used in data science.
+Python is widely used for machine learning and artificial intelligence projects.
+Python programming language is easy to learn for beginners.
+Data science involves collecting analyzing and interpreting large amounts of data.
+Data analysis helps businesses make better decisions based on facts.
+Artificial intelligence is transforming the way we live and work.
+Artificial intelligence systems can now recognize images speech and text.
+The computer science field is growing rapidly with new innovations.
+I am learning machine learning and data science this semester.
+I am studying computer science at a well known university.
+I want to become a software engineer after completing my degree.
+I want to learn more about neural networks and deep learning.
+The student is working hard to complete the project on time.
+The project involves building a next word prediction system using ngrams.
+The next word prediction model uses probability to suggest words.
+Next word prediction improves typing speed and reduces errors significantly.
+Text prediction systems are widely used in mobile keyboards today.
+Autocorrect systems help users type faster and make fewer mistakes.
+The keyboard suggests the next word based on previous words typed.
+Language models are trained on large text corpora to predict words.
+N-gram models use sequences of words to predict the next word.
+Bigram models look at the previous one word to make predictions.
+Trigram models use the previous two words for better predictions.
+The probability of a word depends on the words before it.
+Conditional probability is used to calculate the likelihood of next words.
+The model learns word frequencies from the training text corpus.
+Frequent word combinations appear more often in natural language text.
+We use tokenization to split text into individual words or tokens.
+Preprocessing involves removing punctuation converting text to lowercase form.
+The training data should be large and diverse for better accuracy.
+I enjoy learning new programming concepts every single day.
+I enjoy building projects that solve real world problems effectively.
+Technology is changing education and making learning more accessible globally.
+Students can use technology to access information from anywhere anytime.
+The internet has made it easier to share knowledge worldwide.
+Programming skills are essential for jobs in the modern economy.
+Good morning how are you doing today my friend.
+Good evening I hope you had a wonderful productive day.
+I need to finish my assignment before the deadline tomorrow.
+The professor gave us an interesting project to work on.
+We should submit the project before the end of this month.
+The results of the experiment showed significant improvement in performance.
+Neural networks can learn complex patterns from training examples.
+The accuracy of the model improved after adding more training data.
+We evaluated the model using standard performance metrics and benchmarks.
+The system was tested on multiple datasets to ensure reliability.
+I think this project will help me improve my coding skills.
+I think learning algorithms is very important for computer science students.
+The algorithm processes the input and returns the most likely output.
+We implemented the solution using Python and the NLTK library.
+The NLTK library provides useful tools for natural language processing tasks.
+Streamlit makes it easy to build interactive web applications in Python.
+The web application allows users to type text and see predictions.
+Users can see the top three suggested words for their input.
+The interface is simple clean and easy to use for everyone.
+I hope this project gets a good grade from my professor.
+This project demonstrates practical application of natural language processing concepts.
